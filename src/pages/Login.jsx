@@ -129,7 +129,7 @@ const Login = () => {
     // <div className=" bg-mainLight min-h-screen  flex items-center justify-center px-0 sm:px-4 ">
     <div className="bg-mainLight fixed inset-0 flex items-center justify-center px-0 sm:px-4 overflow-hidden">
       <div
-        className="h-full max-h-[100%] overflow-y-auto scroll-smooth  w-full sm:max-w-md bg-white p-6 sm:p-8 rounded-lg shadow-lg "
+        className="max-h-[100vh] overflow-y-auto scroll-smooth  w-full sm:max-w-md bg-white p-6 sm:p-8 rounded-lg shadow-lg "
         style={{
           scrollbarWidth: "thin", // Firefox
           scrollbarColor: "rgba(20, 184, 166, 0.3) transparent",
